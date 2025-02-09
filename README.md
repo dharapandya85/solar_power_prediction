@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eedee1c5-95e8-4c26-bbeb-b0ff313df0bd)![image](https://github.com/user-attachments/assets/34776635-ed6c-410f-abe2-bb69da7fd209)![image](https://github.com/user-attachments/assets/f9f9f2b0-c29f-4f3e-aa25-35077401f628)![image](https://github.com/user-attachments/assets/dfb7eb2c-b3b8-4f95-9e4a-559a8a6bb6d7)# solar_power_prediction
+# solar_power_prediction
 # utilized python libraries: pandas, numpy, seaborn, matplotlib
 # reading contents of dataset(solar power generation)
 # utilized matplotlib for 'Distribution of Generated Power'
